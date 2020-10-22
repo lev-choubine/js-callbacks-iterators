@@ -14,4 +14,4 @@ const splice2dimenntion = mneumonics.map(
 
 console.log(splice2dimenntion);
 
-// this one is done!!!
+// this one is done!!!!!
